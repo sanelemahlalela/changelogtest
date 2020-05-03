@@ -9,3 +9,7 @@ Need to figure this one out
 
 ##### Making some progress
 * Seem like this tool works better when using the github issue tracker?
+
+
+#### Changelog
+Generated using : https://github.com/github-changelog-generator/Github-Changelog-Generator/blob/master/CHANGELOG.md
