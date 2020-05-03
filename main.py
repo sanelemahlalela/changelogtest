@@ -1,4 +1,7 @@
 def main():
+    """
+    Program's entry point
+    """
     print("hello world")
     
     
