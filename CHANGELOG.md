@@ -1,5 +1,31 @@
 # Changelog
 
+## [Unreleased](https://github.com/sanelemahlalela/changelogtest/tree/HEAD)
+
+[Full Changelog](https://github.com/sanelemahlalela/changelogtest/compare/v4.2...HEAD)
+
+**Implemented enhancements:**
+
+- test enhancement2 [\#7](https://github.com/sanelemahlalela/changelogtest/issues/7)
+
+## [v4.2](https://github.com/sanelemahlalela/changelogtest/tree/v4.2) (2020-05-03)
+
+[Full Changelog](https://github.com/sanelemahlalela/changelogtest/compare/v4.1...v4.2)
+
+**Fixed bugs:**
+
+- another bug2 [\#10](https://github.com/sanelemahlalela/changelogtest/issues/10)
+- test bug [\#8](https://github.com/sanelemahlalela/changelogtest/issues/8)
+
+**Closed issues:**
+
+- improve documentation please [\#9](https://github.com/sanelemahlalela/changelogtest/issues/9)
+
+**Merged pull requests:**
+
+- an enhancement has been added [\#12](https://github.com/sanelemahlalela/changelogtest/pull/12) ([sanelemahlalela](https://github.com/sanelemahlalela))
+- fixes bug [\#11](https://github.com/sanelemahlalela/changelogtest/pull/11) ([sanelemahlalela](https://github.com/sanelemahlalela))
+
 ## [v4.1](https://github.com/sanelemahlalela/changelogtest/tree/v4.1) (2020-05-03)
 
 [Full Changelog](https://github.com/sanelemahlalela/changelogtest/compare/v4...v4.1)
