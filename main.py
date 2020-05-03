@@ -2,6 +2,7 @@ def main():
     """
     Program's entry point
     """
+    print("program started")
     print("hello world")
     
     
